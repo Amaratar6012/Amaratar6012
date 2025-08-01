@@ -9,15 +9,6 @@
 
 ---
 
-### 🎧 Currently Vibing To:
-<details>
-  <summary>Click to show</summary>
-
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-</details>
-
----
-
 ### 🛠️ Tools & Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -42,27 +33,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </div>
-
-<details>
-  <summary>More details</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
 
 ---
 
 ### 💬 About Me
 
-- 🧑‍💻 Currently diving into Flutter & Web Development
-- 🐧 I enjoy exploring Linux and open-source tools
-- 🧠 Ask me about PC building, tech, or movies
-- 📬 Reach me on Telegram: [@spxd007](https://t.me/spxd007)
+- 🧑‍💻 Currently diving into Flutter & Web Development  
+- 🐧 I enjoy exploring Linux and open-source tools  
+- 🧠 Ask me about PC building, tech, or movies  
 
 ---
 
@@ -73,10 +57,3 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/>
-</p>
